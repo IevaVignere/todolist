@@ -11,5 +11,7 @@ Tumšais/Gaišais režīms: programma automātiski pielāgojas operētājsistēm
 
 ## Uzstādīšanas Instrukcija
 1. Pārbauda, vai datorā ir instalēts Python 3.x
-2. Klonē repozitoriju savā datorā.
+2. Nokopē repozitoriju datorā
+3. Instalē CustomTkinter bibliotēku
+4. Palaiž programmu
    
