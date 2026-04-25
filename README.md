@@ -11,5 +11,5 @@ Tumšais/Gaišais režīms: programma automātiski pielāgojas operētājsistēm
 
 ## Uzstādīšanas Instrukcija
 1. Pārbauda, vai datorā ir instalēts Python 3.x
-2. Klonē repozitoriju savā datorā:
+2. Klonē repozitoriju savā datorā.
    
